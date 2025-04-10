@@ -58,8 +58,6 @@ function App() {
 	)
 }
 
-// Styled-components remain unchanged
-
 const Container = styled.div`
   max-width: 900px;
   margin: 50px auto;
