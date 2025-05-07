@@ -16,5 +16,5 @@ A sleek and modern **React timer app** that counts up to a user-defined number o
 
 ## 🧠 Tech Stack
 
-- **⚛️ React**
+- ⚛️ **React** with the **Vite** framework
 - **🌬️ styled-components**
