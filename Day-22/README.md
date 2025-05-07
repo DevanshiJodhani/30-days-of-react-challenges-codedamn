@@ -24,6 +24,6 @@ Test your JavaScript knowledge through multiple-choice questions and track your 
 
 ## 🧪 Tech Stack
 
-- ⚛️ React
-- 🔷 TypeScript
-- 🌬️ Tailwind CSS
+- **⚛️ React**
+- **🔷 TypeScript**
+- **🌬️ Tailwind CSS**
